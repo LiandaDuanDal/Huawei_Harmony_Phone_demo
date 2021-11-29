@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:alignment="center"
+    ohos:orientation="vertical">
+
+    <Text
+        ohos:id="$+id:text_helloworld"
+        ohos:height="match_content"
+        ohos:width="match_content"
+        ohos:background_element="$graphic:background_ability_main"
+        ohos:layout_alignment="horizontal_center"
+        ohos:text="Fuck world"
+        ohos:text_size="25vp"
+        />
+
+    <Button
+        ohos:id="$+id:but1"
+        ohos:height="50vp"
+        ohos:width="100vp"
+        ohos:background_element="#FFCF2D2D"
+        ohos:text="Click me!!!"
+        />
+
+    <Button
+        ohos:id="$+id:btn_2"
+        ohos:height="180"
+        ohos:width="255"
+        ohos:text="临时按钮"
+        ohos:text_color="red"
+        ohos:background_element="green"
+        />
+    <Button
+        ohos:id="$+id:btn_3"
+        ohos:height="180"
+        ohos:width="match_content"
+        ohos:text="使用内部类实现点击事件"
+        ohos:text_color="red"
+        ohos:background_element="green"
+        />
+<Button
+        ohos:id="$+id:btn_4"
+        ohos:height="180"
+        ohos:width="match_content"
+        ohos:text="使用方法引用实现点击事件"
+        ohos:text_color="red"
+        ohos:background_element="green"
+        />
+</DirectionalLayout>

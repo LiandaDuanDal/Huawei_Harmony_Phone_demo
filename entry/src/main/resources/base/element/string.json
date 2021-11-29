@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "entry_MainAbility"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability_HelloWorld",
+      "value": "Fuck you, world"
+    },
+    {
+      "name": "secondmainability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "secondmainability_HelloWorld",
+      "value": "Hello World"
+    },
+    {
+      "name": "entry_SecondMainAbility",
+      "value": "entry_SecondMainAbility"
+    }
+  ]
+}
